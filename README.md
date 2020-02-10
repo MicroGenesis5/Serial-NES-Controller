@@ -1,15 +1,14 @@
 # Serial-NES-Controller
 Arduino sketches and Python program for project: https://www.microgenesis5.com/_txt/nes.html
 
-Step 1:
+<strong>Step 1</strong>:
 <a href="https://www.microgenesis5.com/_txt/nes.html#ardnescont">Create Arduino NES controller circuit</a>
+note: requires a <a href="http://www.ti.com/lit/ds/symlink/cd4021b-q1.pdf">CD4021 IC</a>
 
-note: requires a <a href="https://www.microgenesis5.com/_txt/nes.html#ardnescont">CD4021 IC</a>
-
-Step 2:
+<strong>Step 2</strong>:
 <a href="https://www.microgenesis5.com/_txt/nes.html#setup">Set up serial communication network</a> consisting of a PC, Arduino Mega, the Arduino NES controller, and an NES game console
 
-Files:
+<strong>Files</strong>:
 
 Uno-NES-controller.ino: sketch for Arduino NES controller
 
