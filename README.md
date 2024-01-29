@@ -1,5 +1,5 @@
 # Serial-NES-Controller
-Arduino sketches and Python program for project: [https://www.microgenesis5.com/_txt/nes.html](https://falconreach.net/_txt/nes.html)
+Arduino sketches and Python program for project: [https://falconreach.net/_txt/nes.html](https://falconreach.net/_txt/nes.html)
 
 <strong>Step 1</strong>:
 <a href="[[https://www.microgenesis5.com/_txt/nes.html](https://falconreach.net/_txt/nes.html)](https://falconreach.net/_txt/nes.html)#ardnescont" target="_blank">Create Arduino NES controller circuit</a>
