@@ -1,4 +1,4 @@
-// Arduino Mega part of Serial NES Controller project: https://www.microgenesis5.com/_txt/nes.html
+// Arduino Mega part of Serial NES Controller project: https://falconreach.net/_txt/nes.html
 
 String InBytes;
 
